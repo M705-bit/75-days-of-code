@@ -17,9 +17,3 @@ class Solution:
                 freq[complement] -= pairs
 
         return count
-
-solucao = Solution()
-solucao = Solution()
-k = int(input("entre com um valor para k: "))
-lista = list(map(int, input("entre com uma lista: ").split(",")))
-print(solucao.maxOperations(lista,k))

@@ -1,11 +1,9 @@
 # 75-days-of-code
 Desafio do leetcode que me propus a fazer para aprender mais sobre algoritmos e estruturas de dados. Meu objetivo é completar os 75 exercícios do desafio!
 
-O site Beecrowd é um plataforma global que disponibiliza diversos exercícios para todos os níveis, desde o básico até o avançado. Sendo ainda uma iniciante no mundo do desenvolvimento, o Beecrowd tem me ajudado bastante a praticar e aprender novos conteúdos. Para registrar a minha jornada com o Beecrowd desenvolvi esse repositório onde junto todos as soluções de exercícios que realizei na plataforma. Vale lembrar que esse repositório é baseado no repositório incrível da Raquel Marcolino. Você pode conferir o repositório dela através desse link: https://github.com/xTecna/solucoes-da-beecrowd
+# Problemas Resolvidos - Leetcode  
 
-# Problemas Resolvidos - Beecrowd  
-
-Nesta tabela, listo as categorias e os problemas que resolvi no Beecrowd.
+Nesta tabela, listo as categorias e os problemas que resolvi no Leetcode.
 
 | Categoria                | Problema | Enunciado | Minha Solução | Status |
 |--------------------------|----------|-----------|---------------|--------|

@@ -22,5 +22,8 @@ Nesta tabela, listo as categorias e os problemas que resolvi no Leetcode.
 | Stack                   |Removing Stars From a String| | 2390.py| Resolvido |
 | Queue                   | Number of Recent Calls |   | 933.py |Resolvido|
 | Queue                   | Dota2 Senate | | 649.py| Resolvido|
-| Linked List                   | Reverse Linked List | | 206.py| Resolvido|
+| Linked List                   | Reverse Linked List | | 206.py| Resolvido
+| Linked List                   |  | | 328.py| Resolvido|
+|Linked List                   |  | | 2130.py| Resolvido|
+| Linked List                   | | | 2095.py| Resolvido|
 

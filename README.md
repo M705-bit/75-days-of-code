@@ -10,6 +10,7 @@ Nesta tabela, listo as categorias e os problemas que resolvi no Leetcode.
 | Arrays e Strings | Merge Strings Alternately | | 1768.py | Resolvido |
 | Arrays e Strings                   |Greatest Common Divisor of Strings |  | 1071.py | Resolvido |
 | Arrays e Strings           | Kids With the Greatest Number of Candies || 1431.py| Resolvido |
+| Arrays e Strings | 443. String Compression | | 443.py | Resolvido |
 | Two Pointers | Container With Most Water |  | 11.py | Resolvido |
 | Two Pointers |Max Number of K-Sum Pairs |  | 1679.py | Resolvido |
 | Sliding Window | Maximum Average Subarray I |  | 643.py |Resolvido |

@@ -1,25 +1,22 @@
+from typing import List, Annotated, Optional
+
 class Solution:
     def compress(self, chars: List[str]) -> int:
-        write = 0  # posição para escrever
-        read = 0   # posição para ler
+        stack = []
+        count = 1
         
-        while read < len(chars):
-            char = chars[read]
-            count = 0
-            
-            # conta repetições
-            while read < len(chars) and chars[read] == char:
-                read += 1
-                count += 1
-            
-            # escreve o caractere
-            chars[write] = char
-            write += 1
-            
-            # escreve o número se count > 1
-            if count > 1:
-                for c in str(count):
-                    chars[write] = c
-                    write += 1
-        
-        return write
+        for i in range(1, len(chars)+1):        
+            if i < len(chars) and chars[i] == chars[i-1]: 
+                count+=1  #incrementa a contagem  
+            else: #se eles forem diferentes adiciona o anterior na pilha
+                stack.append(chars[i-1])
+                if count > 1: # tem contagem? 
+                    stack.append(count)
+                    
+                count = 1    
+        chars = ''.join(str(item) for item in stack)
+
+        return len(stack)
+
+solution = Solution()
+print(solution.compress(["a","a","b","b","c","c","c"]))  # Output: 6, chars = ["a","2","b","2","c","3"]

@@ -21,7 +21,7 @@ Nesta tabela, listo as categorias e os problemas que resolvi no Leetcode.
 | Hashmap or Sets    | Equal Row and Column Pair | | 2352.py| Resolvido |
 | Stack | Decode String |  | 394.py | Resolvido |
 | Stack                   |Removing Stars From a String| | 2390.py| Resolvido |
-| Stack | Asteroid Collision | | 735.py | | Resolvido |
+| Stack | Asteroid Collision | | 735.py | Resolvido |
 | Queue                   | Number of Recent Calls |   | 933.py |Resolvido|
 | Queue                   | Dota2 Senate | | 649.py| Resolvido|
 | Linked List                   | Reverse Linked List | | 206.py| Resolvido
